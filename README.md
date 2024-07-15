@@ -1,1 +1,1 @@
-To-Do List "Lista de tarefas" básica que permite adicionar e remover tarefas.
+To-Do List "Lista de tarefas", uma aplicação web que permite adicionar e remover tarefas.
