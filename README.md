@@ -1,4 +1,4 @@
-**Veja o projeto ao vivo**
+**Veja o projeto ao vivo:**
 
 [Lista de Tarefas](https://ninja1375.github.io/To-Do-List/)
 
